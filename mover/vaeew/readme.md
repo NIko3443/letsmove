@@ -1,18 +1,16 @@
 ## 基本信息
-- Sui钱包地址: `0x1000000000000x`
-> 首次参与需要完成第一个任务注册好钱包地址才被合并，并且后续学习奖励会打入这个地址
-- github: `自己的githubid`
+- Sui钱包地址: `0x00c6f7cf44a688e78753aaa82e77bf2bf5e776b2aed02cd4a32e69bfce6b2ed2`
+- github: `Niko3443`
 
 ## 个人简介
-- 工作经验: 5年
-- 技术栈: `Rust` `C++`
-- 多年web2开发经验，对Move特别感兴趣，想通过Move入门区块链
-- 联系方式: tg: `xxx` 
+- 工作经验: 0年
+- 致力于Web3学习，对Move特别感兴趣，想通过Move入门区块链
+- 联系方式:  email:vaeew11@gmail.com
 
 ## 任务
 
 ##   01 hello move  
-- [] package id: 
+- [] package id: 0x11f9aab26a0e2e409c8545e022636cec7ecf959166f8c8fb64fda2cf2c965bb6
 
 ##   02 move coin
 - [] My Coin package id : 
